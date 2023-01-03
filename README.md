@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tungpham663
-- 👀 I’m interested in math and machine learning.
-- 🌱 I’m currently learning Machine learning.
+👋 Hi, I’m Pham Quang Tung.
+ - Machine Learning Research Student at [DSLab](https://bkai.ai/research/machine-learning/), [BKAI](https://bkai.ai/)
+ - AI Developer at [Google Developer Student Club HUST](https://www.facebook.com/gdsc.hust)
 
 
 <!---
