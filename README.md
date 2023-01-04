@@ -1,5 +1,5 @@
 👋 Hi, I’m Pham Quang Tung.
- - Machine Learning Research Student at [DSLab](https://bkai.ai/research/machine-learning/), [BKAI](https://bkai.ai/)
+ - Machine Learning Research Student at [DSLab](http://ds.soict.hust.edu.vn/), [BKAI](https://bkai.ai/)
  - AI Developer at [Google Developer Student Club HUST](https://www.facebook.com/gdsc.hust)
 
 
