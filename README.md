@@ -5,8 +5,8 @@
 ## 📈 GitHub Stats
 
 <div style="display: flex; flex-direction: row;">
- ![Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungpham663&show_icons=true&theme=radical)  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tungpham663&layout=compact&theme=radical)](https://github.com/tungpham663/github-readme-stats)
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=tungpham663&show_icons=true&theme=radical"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungpham663&layout=compact&theme=radical"/>
 </div>
 <!---
 tungpham663/tungpham663 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
